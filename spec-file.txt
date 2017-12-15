@@ -96,4 +96,3 @@ https://repo.continuum.io/pkgs/main/linux-64/widgetsnbextension-3.0.2-py36hd01bb
 https://repo.continuum.io/pkgs/main/linux-64/xz-5.2.3-h55aa19d_2.tar.bz2
 https://repo.continuum.io/pkgs/main/linux-64/zeromq-4.2.2-hbedb6e5_2.tar.bz2
 https://repo.continuum.io/pkgs/main/linux-64/zlib-1.2.11-ha838bed_2.tar.bz2
-
