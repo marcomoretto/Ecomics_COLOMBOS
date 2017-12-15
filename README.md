@@ -7,7 +7,7 @@ The following collection of Jupyter notebooks tries to add some further insights
 
 #### Data availability:
 
-For convenience, a copy of the dataset can be download directly from this repository.
+For convenience, a copy of the datasets can be found in the `data` directory.
 
 **COLOMBOS**: http://colombos.fmach.it/cws_data/compendium_data/ecoli_compendium_data.zip
 
